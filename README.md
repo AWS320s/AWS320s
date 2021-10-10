@@ -1,5 +1,5 @@
 - 👋 Hi, I’m soonbaht
-- 👀 I’m interested in Information Technology, during my off time I like to run, bike ride and play Sudoku. 
+- 👀 I’m interested in Information Technology; my hobbies are cycling, running and Sudoku. 
 - 🌱 I’m currently learning Python and cloud security 
 - 💞️ Im a at the beginning stages of learning python programming and would like to collaborate with other python learners at all levels. 
 - 📫 How to reach me soonbahtpython@gmail.com
